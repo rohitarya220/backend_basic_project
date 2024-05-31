@@ -1,0 +1,1 @@
+Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.
